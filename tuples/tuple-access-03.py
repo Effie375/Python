@@ -1,5 +1,4 @@
 thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
-
 print(thistuple[2:5])
 
 #This will return the items from position 2 to 5.
