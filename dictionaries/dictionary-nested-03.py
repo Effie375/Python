@@ -8,5 +8,4 @@ my_dict = {
 }
 
 print(my_dict)
-
 print(my_dict["my_sub_dict1"]["my_list"][0])
