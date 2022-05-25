@@ -1,5 +1,5 @@
 x = 5
-y = "John"
-
 print(x)
+
+y = "John"
 print(y)
