@@ -1,7 +1,7 @@
 x = 300
 
 def myfunc():
-  print(x)
+    print(x)
 
 myfunc()
 
