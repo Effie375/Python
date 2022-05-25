@@ -14,5 +14,4 @@ myfamily = {
 }
 
 print(myfamily)
-
 print(myfamily["child1"]["year"])
