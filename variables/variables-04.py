@@ -1,4 +1,5 @@
 x = 5
-y = "John"
 print(type(x))
+
+y = "John"
 print(type(y))
