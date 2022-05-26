@@ -1,8 +1,8 @@
-x = str(3)
+x = str(20)
 print(x)
 
-y = int(3)
+y = int(20)
 print(y)
 
-z = float(3)
+z = float(20)
 print(z)
