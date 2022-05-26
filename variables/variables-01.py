@@ -1,5 +1,5 @@
-x = 5
+x = 20
 print(x)
 
-y = "John"
+y = "Καζή Ευστρατία"
 print(y)
