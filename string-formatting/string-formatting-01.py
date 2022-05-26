@@ -1,3 +1,3 @@
-price = 49
-txt = "The price is {} dollars"
-print(txt.format(price))
+name = "Καζή Ευστρατία"
+txt = "Ονομάζομαι {}"
+print(txt.format(name))
