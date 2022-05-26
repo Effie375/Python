@@ -1,4 +1,4 @@
-x, y, z = "Orange", "Banana", "Cherry"
+x, y, z = "Καζή", "Ευστρατία", "ct20044"
 
 print(x)
 print(y)
