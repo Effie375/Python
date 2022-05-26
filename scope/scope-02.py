@@ -1,7 +1,7 @@
-def myfunc():
+def myfunc1():
     x = 300
-    def myinnerfunc():
+    def myfunc2():
         print(x)
-    myinnerfunc()
+    myfunc2()
 
-myfunc()
+myfunc1()
