@@ -1,13 +1,12 @@
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
-
-print(myvar)
-print(my_var)
-print(_my_var)
-print(myVar)
-print(MYVAR)
-print(myvar2)
+myname = "Καζή Ευστρατία"
+print(myname)
+my_name = "Καζή Ευστρατία"
+print(my_name)
+_my_name = "Καζή Ευστρατία"
+print(_my_name)
+myName = "Καζή Ευστρατία"
+print(myName)
+MYNAME = "Καζή Ευστρατία"
+print(MYNAME)
+myname1 = "Καζή Ευστρατία"
+print(myname1)
