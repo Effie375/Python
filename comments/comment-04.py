@@ -1,4 +1,4 @@
-#This is a comment
-#written in
-#more than just one line
-print("Hello, World!")
+#Αυτό είναι ένα σχόλιο
+#γραμμένο σε
+#περισσότερες γραμμές
+print("Τμήμα Πολιτισμικής Τεχνολογίας και Επικοινωνίας")
