@@ -1,8 +1,8 @@
-x = 41
+x = 15
 
 if x > 10:
-    print("Above ten,")
+    print("Μεγαλύτερο από 10.")
     if x > 20:
-        print("and also above 20!")
+        print("Και μεγαλύτερο από 20!")
     else:
-        print("but not above 20.")
+        print("Αλλά όχι μεγαλύτερο από 20!")
