@@ -1,2 +1,2 @@
-username = input("Enter username:")
-print("Username is: " + username)
+name = input("Δώσε το όνομά σου: ")
+print("Το όνομά σου είναι " + name)
