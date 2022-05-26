@@ -4,9 +4,9 @@ class Person:
         self.age = age
 
     def myfunc(self):
-        print("Hello my name is " + self.name)
+        print("Το όνομα μου είναι " + self.name)
 
-p1 = Person("John", 36)
+p1 = Person("Ευστρατία", 20)
 
 del p1
 
