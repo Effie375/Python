@@ -1,9 +1,9 @@
-x = "awesome"
+x = "2022"
 
 def myfunc():
     global x
-    x = "fantastic"
+    x = "2021"
 
 myfunc()
 
-print("Python is " + x)
+print("ΤΠΤΕ " + x)
