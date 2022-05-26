@@ -1,5 +1,5 @@
-x = 5
+x = 20
 print(type(x))
 
-y = "John"
+y = "Καζή Ευστρατία"
 print(type(y))
