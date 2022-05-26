@@ -1,4 +1,4 @@
-x = y = z = "Orange"
+x = y = z = "Καζή Ευστρατία"
 
 print(x)
 print(y)
