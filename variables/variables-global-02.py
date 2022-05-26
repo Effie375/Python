@@ -1,9 +1,9 @@
-x = "awesome"
+x = "2022"
 
 def myfunc():
-    x = "fantastic"
-    print("Python is " + x)
+    x = "2021"
+    print("ΤΠΤΕ " + x)
 
 myfunc()
 
-print("Python is " + x)
+print("ΤΠΤΕ " + x)
