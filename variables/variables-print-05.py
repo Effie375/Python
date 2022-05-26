@@ -1,5 +1,3 @@
-x = 5
-y = "John"
+x = 20
+y = "Καζή Ευστρατία"
 print(x + y)
-
-#This example will produce an error in the result
