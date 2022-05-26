@@ -1,6 +1,6 @@
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
+student = ["Καζή", "Ευστρατία", "ct20044"]
+first, last, ct = student
 
-print(x)
-print(y)
-print(z)
+print(first)
+print(last)
+print(ct)
