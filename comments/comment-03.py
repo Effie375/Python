@@ -1,2 +1,2 @@
-#print("Hello, World!")
-print("Cheers, Mate!")
+#print("ΤΠΤΕ")
+print("Τμήμα Πολιτισμικής Τεχνολογίας και Επικοινωνίας")
