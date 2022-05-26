@@ -1,5 +1,5 @@
-x = "John"
+x = "Καζή Ευστρατία"
 print(x)
-#double quotes are the same as single quotes:
-x = 'John'
+
+x = 'Καζή Ευστρατία'
 print(x)
