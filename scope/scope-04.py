@@ -5,5 +5,4 @@ def myfunc():
     print(x)
 
 myfunc()
-
 print(x)
