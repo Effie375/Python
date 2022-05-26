@@ -1,5 +1,5 @@
-quantity = 3
-itemno = 567
-price = 49
-myorder = "I want {} pieces of item number {} for {:.2f} dollars."
-print(myorder.format(quantity, itemno, price))
+first = "Ευστρατία"
+last = "Καζή"
+height = 1.65
+myorder = "Ονομάζομαι {} {} και είμαι {:.2f}."
+print(myorder.format(first, last, height))
