@@ -1,5 +1,4 @@
-a = 4
+a = 20
+A = "Καζή Ευστρατία"
 print(a)
-
-A = "Sally"
 print(A)
