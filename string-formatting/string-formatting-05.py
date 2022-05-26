@@ -1,4 +1,5 @@
-age = 36
-name = "John"
-txt = "His name is {1}. {1} is {0} years old."
-print(txt.format(age, name))
+first = "Ευστρατία"
+last = "Καζή"
+height = 1.65
+myorder = "Το όνομα της είναι {0} {1}. Η {0} είναι {2:.2f}."
+print(myorder.format(first, last, height))
