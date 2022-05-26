@@ -1,5 +1,3 @@
-2myvar = "John"
-my-var = "John"
-my var = "John"
-
-#This example will produce an error in the result
+1myname = "Καζή Ευστρατία"
+my-name = "Καζή Ευστρατία"
+my name = "Καζή Ευστρατία"
