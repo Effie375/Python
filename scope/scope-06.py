@@ -5,5 +5,4 @@ def myfunc():
     x = 200
 
 myfunc()
-
 print(x)
