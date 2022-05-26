@@ -1,2 +1,2 @@
-x = "Python is awesome"
-print(x)
+student = "Καζή Ευστρατία"
+print(student)
