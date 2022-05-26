@@ -4,7 +4,7 @@ class Person:
         mysillyobject.age = age
 
     def myfunc(abc):
-        print("Hello my name is " + abc.name)
+        print("Το όνομα μου είναι " + abc.name)
 
-p1 = Person("John", 36)
+p1 = Person("Ευστρατία", 20)
 p1.myfunc()
