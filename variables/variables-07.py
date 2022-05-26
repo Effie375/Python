@@ -1,5 +1,5 @@
-x, y, z = "Καζή", "Ευστρατία", "ct20044"
+first, last, ct = "Ευστρατία", "Καζή", "ct20044"
 
-print(x)
-print(y)
-print(z)
+print(first)
+print(last)
+print(ct)
