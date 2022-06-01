@@ -1,7 +1,7 @@
-fruits = ("apple", "mango", "papaya", "pineapple", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι", "Φράουλα", "Καρπούζι")
 
-(green, *tropic, red) = fruits
+(x, *y, z) = mytuple
 
-print(green)
-print(tropic)
-print(red)
+print(x)
+print(y)
+print(z)
