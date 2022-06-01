@@ -1,2 +1,2 @@
-mytuple = tuple(["Μήλο", "Μπανάνα", "Κεράσι"])
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 print(len(mytuple))
