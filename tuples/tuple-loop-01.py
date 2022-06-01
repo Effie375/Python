@@ -1,4 +1,4 @@
-thistuple = ("apple", "banana", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 
-for x in thistuple:
+for x in mytuple:
     print(x)
