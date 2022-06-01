@@ -1,2 +1,3 @@
-thistuple = tuple(("apple", "banana", "cherry"))
-print(thistuple)
+mylist = ["Μήλο", "Μπανάνα", "Κεράσι"]
+mytuple = tuple(mylist)
+print(mytuple)
