@@ -1,2 +1,2 @@
-thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
-print(thistuple[:4])
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι", "Ανανάς", "Καρπούζι", "Φράουλα", "Αχλάδι")
+print(mytuple[:4])
