@@ -1,7 +1,6 @@
 f = open("demofile.txt", "w")
-f.write("Woops! I have deleted the content!")
+f.write("Καζή Ευστρατία")
 f.close()
 
-#open and read the file after the appending:
 f = open("demofile.txt", "r")
 print(f.read())
