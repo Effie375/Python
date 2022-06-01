@@ -1,7 +1,7 @@
-thistuple = ("apple", "banana", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 
-i = 0
+x = 0
 
-while i < len(thistuple):
-    print(thistuple[i])
-    i = i + 1
+while x < len(mytuple):
+    print(mytuple[x])
+    x = x + 1
