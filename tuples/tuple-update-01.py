@@ -1,5 +1,5 @@
-x = ("apple", "banana", "cherry")
-y = list(x)
-y[1] = "kiwi"
-x = tuple(y)
-print(x)
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
+mylist = list(mytuple)
+mylist[1] = "Αχλάδι"
+mytuple = tuple(mylist)
+print(mytuple)
