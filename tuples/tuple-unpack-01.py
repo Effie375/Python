@@ -1,2 +1,2 @@
-fruits = ("apple", "banana", "cherry")
-print(fruits)
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
+print(mytuple)
