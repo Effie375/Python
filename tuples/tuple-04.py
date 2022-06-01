@@ -1,6 +1,5 @@
-thistuple = ("apple",)
-print(type(thistuple))
+mytuple = ("Μήλο",)
+print(type(mytuple))
 
-#NOT a tuple
-thistuple = ("apple")
-print(type(thistuple))
+mystring = ("Μήλο")
+print(type(mystring))
