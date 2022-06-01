@@ -1,4 +1,4 @@
-thistuple = ("apple", "banana", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 
-if "apple" in thistuple:
-    print("Yes, 'apple' is in the fruits tuple")
+if "Μήλο" in mytuple:
+    print("Το μήλο είναι στοιχείο του mytuple")
