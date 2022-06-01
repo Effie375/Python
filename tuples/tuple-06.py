@@ -1,2 +1,2 @@
-tuple1 = ("abc", 34, True, 40, "male")
-print(tuple1)
+mytuple = ("Μήλο", 34, True, 3.2)
+print(mytuple)
