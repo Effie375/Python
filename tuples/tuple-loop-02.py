@@ -1,4 +1,4 @@
-thistuple = ("apple", "banana", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 
-for i in range(len(thistuple)):
-    print(thistuple[i])
+for x in range(len(mytuple)):
+    print(mytuple[x])
