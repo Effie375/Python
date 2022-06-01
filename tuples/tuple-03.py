@@ -1,2 +1,2 @@
-thistuple = tuple(("apple", "banana", "cherry"))
-print(len(thistuple))
+mytuple = tuple(["Μήλο", "Μπανάνα", "Κεράσι"])
+print(len(mytuple))
