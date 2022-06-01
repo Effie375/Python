@@ -1,3 +1,3 @@
-thistuple = ("apple", ["banana", "cherry"])
-thistuple[1][0] = "axladi"
-print(thistuple)
+mytuple = ("Μήλο", ["Μπανάνα", "Κεράσι"])
+mytuple[1][0] = "Αχλάδι"
+print(mytuple)
