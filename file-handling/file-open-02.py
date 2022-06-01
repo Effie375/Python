@@ -1,3 +1,3 @@
-f = open("demo\\newfile.txt", "r")
-#f = open(r"demo\newfile.txt", "r")
+f = open("demo\\demofile.txt", "r")
+#f = open(r"demo\demofile.txt", "r")
 print(f.read())
