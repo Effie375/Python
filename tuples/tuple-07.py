@@ -1,2 +1,2 @@
-mytuple = ("apple", "banana", "cherry")
+mytuple = ("Μήλο", "Μπανάνα", "Κεράσι")
 print(type(mytuple))
